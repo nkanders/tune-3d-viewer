@@ -3,8 +3,7 @@ import { GLTFModel, AmbientLight, DirectionLight } from "react-3d-viewer";
 import "./styles.css";
 
 export default function App() {
-  const modelPath =
-    "https://raw.githubusercontent.com/dwqdaiwenqi/react-3d-viewer/master/site/src/lib/model/DamagedHelmet.gltf";
+  const modelPath = "media/tunebed_new.gltf";
   return (
     <div>
       Aditya
